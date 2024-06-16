@@ -1,4 +1,4 @@
-<h2>⭐️Dashboard</h2> 
+<h2>⭐️Stores's Annual Sales Report</h2> 
   <div>
     <p>✨Analyzed an Excel spreadsheet to uncover significant insights.<br>
 ✨Performed data cleaning and statistical analysis in Microfoft Excel.<br>
