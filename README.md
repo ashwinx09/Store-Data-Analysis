@@ -7,7 +7,9 @@
 ✨Crafted a comprehensive PowerPoint presentation incorporating the visualizations and key takeaways.</p>
   </div>
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/ashwinx09/Store-Data-Analysis/assets/171764710/237d9c2d-6992-484b-8f55-0a580889809a" width="700" >
-
+  <img src="https://github.com/ashwinx09/Store-Data-Analysis/assets/171764710/237d9c2d-6992-484b-8f55-0a580889809a" width="700" ><br>
+  <br>
+<h2>⭐️Stores's Annual Sales Report</h2>
+  <img src="https://github.com/ashwinx09/Store-Data-Analysis/blob/main/Data_Analysis_insights.jpg" width="700" >
 
 
